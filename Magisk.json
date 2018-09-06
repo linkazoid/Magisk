@@ -7,15 +7,11 @@
   },
   "magisk": {
     "version": "16.7",
-    "versionCode": "1670",
+    "versionCode": "1671",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v16.7/Magisk-v16.7.zip",
-    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/f67b6d75021b2e2817eaffec5f3b6c8c35ea982d/notes.md"
-   },
-   "uninstaller": {
-     "link": "https://github.com/topjohnwu/Magisk/releases/download/v16.7/Magisk-uninstaller-20180719.zip"
-   },
-   "snet": {
-     "versionCode": "11",
-     "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/snet.apk"
-   }
- }
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/767893d6df41944082414eaf34c4edf912d64ef1/notes.md"
+  },
+  "uninstaller": {
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v16.7/Magisk-uninstaller-20180719.zip"
+  }
+}
